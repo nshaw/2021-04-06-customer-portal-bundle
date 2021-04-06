@@ -130,8 +130,8 @@ components:
     - contents/tcl6-descriptor.yaml
   plugins:
     - plugins/jordengerovac-custport-app-descriptor.yaml
-    - plugins/jordengerovac-jhipster-descriptor.yaml
-    - plugins/jordengerovac-partner-portal-ske-descriptor.yaml
+#    - plugins/jordengerovac-jhipster-descriptor.yaml
+#    - plugins/jordengerovac-partner-portal-ske-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml
   labels:

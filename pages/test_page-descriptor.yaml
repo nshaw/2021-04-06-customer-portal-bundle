@@ -1,0 +1,12 @@
+code: test_page
+parentCode: homepage
+titles:
+  en: Test Page
+pageModel: multi_frame_page
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets: []

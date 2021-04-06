@@ -1,0 +1,13 @@
+name: jordengerovac-partner-portal-ske
+image: 'jordengerovac/partner-portal-skeleton:0.0.1-SNAPSHOT'
+dbms: postgresql
+healthCheckPath: /management/health
+ingressPath: /jordengerovac/partner-portal-skeleton/0-0-1-snapshot
+roles:
+  - partnerPortalSkeleton-admin
+  - project-admin
+  - product-subscription-admin
+  - customer-admin
+  - partner-admin
+  - ticket-admin
+permissions: []

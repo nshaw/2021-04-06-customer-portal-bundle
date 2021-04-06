@@ -1,0 +1,10 @@
+name: jordengerovac-jhipster
+image: 'jordengerovac/jhipster:0.0.1-SNAPSHOT'
+dbms: mysql
+healthCheckPath: /management/health
+ingressPath: /jordengerovac/jhipster/0-0-1-snapshot
+roles:
+  - jhipster-admin
+  - project-admin
+  - customer-admin
+permissions: []
